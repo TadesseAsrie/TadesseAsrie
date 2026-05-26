@@ -2,14 +2,19 @@
  A Full-Stack Web Developer based in Bahir Dar, Ethiopia
 
 I build responsive, user-focused web applications using modern technologies. 
-I love breaking down complex traditional systems (like the Ethiopian Calendar) into clean, functional code.
+I love breaking down complex  systems  into clean, functional code.
 
-- **Frontend Development** | HTML5, CSS3, JavaScript (ES6+), React.js, Next.js |
-| **Backend & APIs** | Node.js, Express.js, RESTful APIs |
-| **Databases (Relational)** | MySQL, PostgreSQL |
-| **Databases (NoSQL)** | MongoDB |
-| **Version Control** | Git, GitHub |
--    Currently working on full-stack web developer.
+- Frontend Development | HTML5, CSS3, JavaScript (ES6+), React.js, Next.js |
+- 
+- Backend & APIs | Node.js, Express.js, RESTful APIs |
+
+- Databases (Relational) | MySQL, PostgreSQL |
+
+- Databases (NoSQL) | MongoDB |
+
+- Version Control | Git, GitHub |
+
+-  Currently working on full-stack web developer.
   
 
 <!--
