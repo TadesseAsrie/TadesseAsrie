@@ -3,11 +3,13 @@
 
 I build responsive, user-focused web applications using modern technologies. I love breaking down complex traditional systems (like the Ethiopian Calendar) into clean, functional code.
 
--  Currently working on full-stack React and Node.js solutions.
--  Expert in React.js, HTML5, and CSS3 in frontend.
--  Expert in node.js express.js  in backend.
--  Expert in mysql,postgres in database.
+- **Frontend Development** | HTML5, CSS3, JavaScript (ES6+), React.js, Next.js |
+| **Backend & APIs** | Node.js, Express.js, RESTful APIs |
+| **Databases (Relational)** | MySQL, PostgreSQL |
+| **Databases (NoSQL)** | MongoDB |
+| **Version Control** | Git, GitHub |
 -  Ask me about building registration systems or custom date calculators!
+-    Currently working on full-stack web developer.
   
 
 <!--
