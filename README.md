@@ -5,7 +5,7 @@ I build responsive, user-focused web applications using modern technologies.
 I love breaking down complex  systems  into clean, functional code.
 
 - Frontend Development | HTML5, CSS3, JavaScript (ES6+), React.js, Next.js |
-- 
+ 
 - Backend & APIs | Node.js, Express.js, RESTful APIs |
 
 - Databases (Relational) | MySQL, PostgreSQL |
