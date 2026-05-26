@@ -1,4 +1,14 @@
-## Hi there 👋
+ Hi 👋, I'm Tadesse Asrie!
+ A Full-Stack Web Developer based in Bahir Dar, Ethiopia
+
+I build responsive, user-focused web applications using modern technologies. I love breaking down complex traditional systems (like the Ethiopian Calendar) into clean, functional code.
+
+-  Currently working on full-stack React and Node.js solutions.
+-  Expert in React.js, HTML5, and CSS3 in frontend.
+-  Expert in node.js express.js  in backend.
+-  Expert in mysql,postgres in database.
+-  Ask me about building registration systems or custom date calculators!
+-  
 
 <!--
 **TadesseAsrie/TadesseAsrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
