@@ -9,7 +9,6 @@ I love breaking down complex traditional systems (like the Ethiopian Calendar) i
 | **Databases (Relational)** | MySQL, PostgreSQL |
 | **Databases (NoSQL)** | MongoDB |
 | **Version Control** | Git, GitHub |
--  Ask me about building registration systems or custom date calculators!
 -    Currently working on full-stack web developer.
   
 
