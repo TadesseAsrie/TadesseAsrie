@@ -1,5 +1,5 @@
  Hi 👋, I'm Tadesse Asrie!
- A Full-Stack Web Developer based in Bahir Dar, Ethiopia
+ A Full-Stack Web Developer based in Addis Ababa, Ethiopia
 
 I build responsive, user-focused web applications using modern technologies. 
 I love breaking down complex  systems  into clean, functional code.
