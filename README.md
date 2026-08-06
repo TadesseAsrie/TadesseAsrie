@@ -1,11 +1,11 @@
-# Hi 👋, I'm Tadesse Asrie
+## Hi 👋, I'm Tadesse Asrie
 ### Full-Stack Developer based in Addis Ababa, Ethiopia
 
 I build responsive, user-focused web applications using modern technologies. I specialize in breaking down complex systems into clean, scalable code.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -23,9 +23,7 @@ I build responsive, user-focused web applications using modern technologies. I s
 
 ---
 
-### 📊 GitHub Stats
-![Tadesse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TadesseAsrie&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TadesseAsrie&layout=compact&theme=dark)
+
   
 
 <!--
