@@ -16,4 +16,4 @@ I love breaking down complex  systems  into clean, functional code.
 
 - Tools | VS, Postman, Figma |
 
--  Currently working on full-stack  developer.
+-  Currently working as full-stack  developer.
